@@ -2,10 +2,14 @@ body {
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
 nav {
   font-size: 20px;
   margin: 0;
-  padding-top: 1rem;
   background: black;
   width: 100%;
   color: white;
@@ -15,6 +19,7 @@ nav {
 ul {
   margin: 0;
   text-align: center;
+  padding: 1rem 0;
 }
 
 li {
@@ -64,15 +69,17 @@ section.parallax. {
 }
 
 section.parallax.parallax_1 {
-padding: 15rem 0 0 15%;
+  padding: 15rem 0 0 15%;
 }
 
 section.parallax.parallax_2 {
-
+  padding: 15rem 0 0 30%;
 }
+
 section.parallax.parallax_3 {
-
+  padding: 15rem 0 0 15%;
 }
+
 section.parallax.parallax_4 {
 
 }
