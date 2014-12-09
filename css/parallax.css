@@ -29,6 +29,16 @@ li {
   padding: 0 2rem;
 }
 
+.para {
+  background: url("../images/drop.svg") no-repeat;
+
+  background-position: 50%;
+  height: 600px;
+  color: transparent;
+  display: inline-block;
+  margin-left: 10%;
+}
+
 .container {
   max-width: 960px;
   margin: 0 auto;
@@ -64,25 +74,12 @@ section.parallax article {
   text-align: center;
 }
 
-section.parallax. {
+section div.container {
   display: inline-block;
+  margin-right: auto;
 }
 
-section.parallax.parallax_1 {
-  padding: 15rem 0 0 15%;
-}
 
-section.parallax.parallax_2 {
-  padding: 15rem 0 0 30%;
-}
-
-section.parallax.parallax_3 {
-  padding: 15rem 0 0 15%;
-}
-
-section.parallax.parallax_4 {
-
-}
 
 
 section.parallax.parallax_1 {
